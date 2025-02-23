@@ -50,7 +50,7 @@ To display help information:
 ```
 
 ## License
-See [licence](LICENCE.md).
+See [licence](LICENCE).
 
 ## Author
 Brian P. Giroux
